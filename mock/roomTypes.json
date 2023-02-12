@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Апартаменты стандарт 1 спальня",
+    "description": [
+      "Апартаменты Стандарт с 1 спальней расположены в шаговой доступности от подъёмника. Подходят для размещения трех гостей, размещение третьего гостя возможно на диване.",
+      "В апартаментах есть все необходимое для комфортного проживания.",
+      "В номере гарантирована одна ванная комната, оснащенная ванной или душевой кабиной."
+    ],
+    "price": 450,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613681/2a000001849f2e1b10c73ea7134e721a1612/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3748917/2a000001849f2e1f04e3134f5aa045b91270/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1b121d1a51cd277edffff0/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3707302/2a000001849f2e22fb7f085efdd5012744f3/XXXL"
+    ]
+  },
+  {
+    "name": "Апартамент комфорт 1 спальня",
+    "description": [
+      "Апартамент категории Комфорт расположен в шаговой доступности от подъёмника.  Подходит для размещения трех гостей, размещение третьего гостя возможно на диване.",
+      "В апартаментах есть все необходимое для комфортного проживания.",
+      "В номере гарантирована одна ванная комната, оснащенная ванной или душевой кабиной."
+    ],
+    "price": 480,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1f0834aef11fe2ffa70064/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e22f95042e16cc6d115827b/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613681/2a000001849f2e17dd20207bdce0789bf0cd/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1b1586b9655868cb8e9cab/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3707302/2a000001849f2e22f73824d774ef15562177/XXXL"
+    ]
+  }
+]

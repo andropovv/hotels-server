@@ -1,0 +1,52 @@
+[
+  {
+    "roomNumber": 1,
+    "type": "Апартаменты стандарт 1 спальня",
+    "availability": true
+  },
+  {
+    "roomNumber": 2,
+    "type": "Апартаменты стандарт 1 спальня",
+    "availability": true
+  },
+  {
+    "roomNumber": 3,
+    "type": "Апартаменты стандарт 1 спальня",
+    "availability": false
+  },
+  {
+    "roomNumber": 4,
+    "type": "Апартаменты стандарт 1 спальня",
+    "availability": true
+  },
+  {
+    "roomNumber": 5,
+    "type": "Апартаменты стандарт 1 спальня",
+    "availability": false
+  },
+  {
+    "roomNumber": 6,
+    "type": "Апартамент комфорт 1 спальня",
+    "availability": true
+  },
+  {
+    "roomNumber": 7,
+    "type": "Апартамент комфорт 1 спальня",
+    "availability": false
+  },
+  {
+    "roomNumber": 8,
+    "type": "Апартамент комфорт 1 спальня",
+    "availability": true
+  },
+  {
+    "roomNumber": 9,
+    "type": "Апартамент комфорт 1 спальня",
+    "availability": false
+  },
+  {
+    "roomNumber": 10,
+    "type": "Апартамент комфорт 1 спальня",
+    "availability": true
+  }
+]

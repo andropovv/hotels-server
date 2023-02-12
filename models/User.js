@@ -15,7 +15,6 @@ const schema = new Schema(
       type: String,
       required: true,
     },
-    image: String,
     sex: {
       type: String,
       enum: ["male", "female"],

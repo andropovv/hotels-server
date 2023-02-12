@@ -1,6 +1,6 @@
-const mongoose = require("mongoose");
+const { Schema, model } = require("mongoose");
 
-const schema = new mongoose.Schema({
+const schema = new Schema({
   roomNumber: {
     type: Number,
     required: true,
@@ -10,10 +10,7 @@ const schema = new mongoose.Schema({
     type: String,
     required: true,
   },
-  price: {
-    type: Number,
-    required: true,
-  },
+
   availability: {
     type: Boolean,
     required: true,
@@ -21,4 +18,4 @@ const schema = new mongoose.Schema({
   },
 });
 
-module.exports = model("User", schema);
+module.exports = model("Room", schema);

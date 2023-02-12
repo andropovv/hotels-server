@@ -1,4 +1,6 @@
 {
   "port": 8000,
-  "mongoUri": "mongodb+srv://andropovv:passwordpassword@cluster0.ypvtv87.mongodb.net/?retryWrites=true&w=majority"
+  "mongoUri": "mongodb+srv://andropovv:passwordpassword@cluster0.ypvtv87.mongodb.net/?retryWrites=true&w=majority",
+  "accessSecret": "dfvbsdbdsvb",
+  "refreshSecret": "fdsfs"
 }
