@@ -111,7 +111,7 @@ router.post("/token", async (req, res) => {
     const data = tokenService.validateRefresh(refreshToken);
 
     const dbToken = await tokenService.findToken(refreshToken);
-    console.log(data);
+    console.log("fs", data);
     if (!data || !dbToken || data?._id !== dbToken?.user?.toString()) {
       return res.status(401).send({ message: "Вы не авторизованы" });
     }

@@ -1,33 +1,135 @@
 [
   {
-    "name": "Апартаменты стандарт 1 спальня",
+    "name": "Стандартный одноместный номер с видом на реку",
     "description": [
-      "Апартаменты Стандарт с 1 спальней расположены в шаговой доступности от подъёмника. Подходят для размещения трех гостей, размещение третьего гостя возможно на диване.",
-      "В апартаментах есть все необходимое для комфортного проживания.",
-      "В номере гарантирована одна ванная комната, оснащенная ванной или душевой кабиной."
+      "Однокомнатный одноместный номер с собственной ванной комнатой и видом на Неву.",
+      "Обращаем Ваше внимание, что на фото изображен типовой номер категории \"Стандарт\". Конфигурация номера может несколько отличаться от представленного на фото."
     ],
-    "price": 450,
+    "price": 150,
     "photos": [
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613681/2a000001849f2e1b10c73ea7134e721a1612/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3748917/2a000001849f2e1f04e3134f5aa045b91270/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1b121d1a51cd277edffff0/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3707302/2a000001849f2e22fb7f085efdd5012744f3/XXXL"
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbee11f6b2b9cedd187c0fde/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbfde1e7e035e84f6b2e69d9/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbee1cc50420af2ce539676d/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbe62f141058a5213738321a/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf9ee5d813ca106df4034fb/XXXL"
     ]
   },
   {
-    "name": "Апартамент комфорт 1 спальня",
+    "name": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
     "description": [
-      "Апартамент категории Комфорт расположен в шаговой доступности от подъёмника.  Подходит для размещения трех гостей, размещение третьего гостя возможно на диване.",
-      "В апартаментах есть все необходимое для комфортного проживания.",
-      "В номере гарантирована одна ванная комната, оснащенная ванной или душевой кабиной."
+      "Однокомнатный номер с 1 одной двуспальной кроватью или 2 раздельными односпальными кроватями, собственной ванной комнатой и видом на внутренний двор.",
+      "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе. ",
+      "Обращаем Ваше внимание, что на фото изображен типовой номер. Конфигурация номера может несколько отличаться от представленного на фото."
     ],
-    "price": 480,
+    "price": 280,
     "photos": [
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1f0834aef11fe2ffa70064/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e22f95042e16cc6d115827b/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613681/2a000001849f2e17dd20207bdce0789bf0cd/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a000001849f2e1b1586b9655868cb8e9cab/XXXL",
-      "https://avatars.mds.yandex.net/get-travel-rooms/3707302/2a000001849f2e22f73824d774ef15562177/XXXL"
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbea280e708843f808759001/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbfe2b9ee5fb232df8e62351/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fc01d974e2173546fbd4c660/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbf216837f2d2b9b52d61456/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe243ce4b3f9b855d7785ef/XXXL"
+    ]
+  },
+  {
+    "name": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "description": [
+      "Однокомнатный номер с 1 двуспальной кроватью или 2 раздельными кроватями, собственной ванной комнатой и видом на Неву.",
+      "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе.",
+      "Обращаем Ваше внимание, что на фото изображен типовой номер. Конфигурация номера может несколько отличаться от представленного на фото."
+    ],
+    "price": 300,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbfe15149fb0a0a9b68af507/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfddfeb4e8ed1081284d122/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbe631f7206a36f6dedca666/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fc01d9b98180c65cf5ab7f39/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbde4faf90c80a3c9a38b914/XXXL"
+    ]
+  },
+  {
+    "name": "Представительский Люкс с видом на реку",
+    "description": [
+      "Двухкомнатный или однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву."
+    ],
+    "price": 350,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf219a8295a60d692ce7ba3/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf215fcb6849019e001eff1/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbe6357df277e8d59d6dd622/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbee1a511c76239f4f0d5658/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf600256f84cc6a412da666/XXXL"
+    ]
+  },
+  {
+    "name": "Представительский Люкс с видовой ванной и видом на реку",
+    "description": [
+      "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву."
+    ],
+    "price": 380,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfa4d26433dc1bc46141fa6/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf9f0e440acbe80dbd58a74/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbee1c4fea51bce063d934ca/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbe23ecc41cafe1eb76f1eda/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbf600b06517d642e421eed3/XXXL"
+    ]
+  },
+  {
+    "name": "Двухместный номер Делюкс с видом на реку",
+    "description": [
+      "Просторный двухместный номер с 1 двуспальной кроватью или 2 раздельными кроватями, собственной ванной комнатой, гостиной зоной и видом на Неву.",
+      "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе."
+    ],
+    "price": 330,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbee1b274275aed169441797/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe636c0aafcb17a4946ffd6/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbf9f13d27ec80ec3ffc416f/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf215ea1fc169fa04af5f44/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbf60003b4a3330ab0a07c4f/XXXL"
+    ]
+  },
+  {
+    "name": "Двухместный номер Делюкс с видом во двор",
+    "description": [
+      "Просторный двухместный номер с 1 двуспальной кроватью или 2 раздельными кроватями, собственной ванной комнатой и видом во внутренний двор.",
+      "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе."
+    ],
+    "price": 300,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe2424c7cbb3a68b149d60c/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbea2528d2a01d6fee4e5f5b/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbe24324fe3fc07effcaf20a/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fc01d96003ceb53982e556e3/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfa776414926e1f22255d7f/XXXL"
+    ]
+  },
+  {
+    "name": "Трехкомнатный Представительский Люкс с видом на реку",
+    "description": [
+      "Трехкомнатный номер с 1 двуспальной кроватью, с 2 собственными ванными комнатами с душевой кабиной, кабинетом, массажным креслом, с видовой ванной и панорамным видом на Неву."
+    ],
+    "price": 500,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfdcf22994fe37de4daf7d3/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbea29389ebad5cb1ca575a0/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3728360/2a0000017bd2365c1940ce39637bdaf71674/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbf9f0a51f647ff949eafad8/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbe242e28b1f1239baeed732/XXXL"
+    ]
+  },
+  {
+    "name": "Двухкомнатный Представительский Люкс с видом на реку",
+    "description": [
+      "Двухкомнатный номер с 1 двуспальной кроватью, с 2 собственными ванными комнатами с душевой кабиной, с видовой ванной и панорамным видом на Неву."
+    ],
+    "price": 450,
+    "photos": [
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfddfbf90308e1f35fd9e4b/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfe39c44e23dfef93a10d27/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe63640a6878b40e7d33162/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbea238cfdbfe7edd5c69a40/XXXL",
+      "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbea28029a905902f00e038a/XXXL"
     ]
   }
 ]
