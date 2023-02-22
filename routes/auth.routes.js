@@ -1,5 +1,6 @@
 const express = require("express");
 const User = require("../models/User.js");
+const auth = require("../middleware/auth.middleware.js");
 const bcrypt = require("bcryptjs");
 const router = express.Router({ mergeParams: true });
 const { check, validationResult } = require("express-validator");
@@ -111,7 +112,6 @@ router.post("/token", async (req, res) => {
     const data = tokenService.validateRefresh(refreshToken);
 
     const dbToken = await tokenService.findToken(refreshToken);
-    console.log("fs", data);
     if (!data || !dbToken || data?._id !== dbToken?.user?.toString()) {
       return res.status(401).send({ message: "Вы не авторизованы" });
     }
@@ -120,6 +120,37 @@ router.post("/token", async (req, res) => {
     await tokenService.save(data._id, tokens.refreshToken);
 
     res.status(200).send({ ...tokens, userId: data._id });
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "На сервере произошла ошибка. Попробуйте позже" });
+  }
+});
+
+router.get("/getMe", auth, async (req, res) => {
+  try {
+    const user = await User.findById(req.user._id);
+    const { name, email, _id, bookedRooms, sex, admin } = user;
+
+    res.json({ name, email, _id, bookedRooms, sex, admin });
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "На сервере произошла ошибка. Попробуйте позже" });
+  }
+});
+
+router.patch("/update", auth, async (req, res) => {
+  try {
+    const data = req.body;
+    console.log(data);
+
+    const user = await User.findById(req.user._id);
+    console.log(user);
+    const updatedUser = await user.updateOne({ ...data }, { new: true });
+    const { email, _id, name, sex, admin } = updatedUser;
+
+    res.send({ email, _id, name, sex, admin });
   } catch (error) {
     res
       .status(500)

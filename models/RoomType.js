@@ -14,6 +14,9 @@ const schema = new Schema({
     type: Number,
     required: true,
   },
+  square: Number,
+  rooms: Number,
+  places: Number,
   photos: [
     {
       type: String,

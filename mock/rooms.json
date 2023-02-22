@@ -2,51 +2,331 @@
   {
     "roomNumber": 1,
     "type": "Стандартный одноместный номер с видом на реку",
-    "availability": true
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 2,
     "type": "Стандартный одноместный номер с видом на реку",
-    "availability": true
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 3,
     "type": "Стандартный одноместный номер с видом на реку",
-    "availability": false
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 4,
     "type": "Стандартный одноместный номер с видом на реку",
-    "availability": true
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 5,
     "type": "Стандартный одноместный номер с видом на реку",
-    "availability": false
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 6,
-    "type": "Апартамент комфорт 1 спальня",
-    "availability": true
+    "type": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 7,
-    "type": "Апартамент комфорт 1 спальня",
-    "availability": false
+    "type": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 8,
-    "type": "Апартамент комфорт 1 спальня",
-    "availability": true
+    "type": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 9,
-    "type": "Апартамент комфорт 1 спальня",
-    "availability": false
+    "type": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
+    "availability": true,
+    "bookedBy": null
   },
   {
     "roomNumber": 10,
-    "type": "Апартамент комфорт 1 спальня",
-    "availability": true
+    "type": "Стандартный двухместный номер с 1 кроватью или двумя отдельными кроватями и видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 11,
+    "type": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 12,
+    "type": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 13,
+    "type": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 14,
+    "type": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 15,
+    "type": "Стандартный двухместный номер с 1 кроватью или 2 отдельными кроватями и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 16,
+    "type": "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 17,
+    "type": "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 18,
+    "type": "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 19,
+    "type": "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 20,
+    "type": "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 21,
+    "type": "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 22,
+    "type": "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 23,
+    "type": "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 24,
+    "type": "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 25,
+    "type": "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву.",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 26,
+    "type": "Двухместный номер Делюкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 27,
+    "type": "Двухместный номер Делюкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 28,
+    "type": "Двухместный номер Делюкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 29,
+    "type": "Двухместный номер Делюкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 30,
+    "type": "Двухместный номер Делюкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 31,
+    "type": "Двухместный номер Делюкс с видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 32,
+    "type": "Двухместный номер Делюкс с видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 33,
+    "type": "Двухместный номер Делюкс с видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 34,
+    "type": "Двухместный номер Делюкс с видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 35,
+    "type": "Двухместный номер Делюкс с видом во двор",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 36,
+    "type": "Трехкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 37,
+    "type": "Трехкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 38,
+    "type": "Трехкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 39,
+    "type": "Трехкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 40,
+    "type": "Трехкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 41,
+    "type": "Двухкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 42,
+    "type": "Двухкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 43,
+    "type": "Двухкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 44,
+    "type": "Двухкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 45,
+    "type": "Двухкомнатный Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 46,
+    "type": "Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 47,
+    "type": "Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 48,
+    "type": "Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 49,
+    "type": "Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 50,
+    "type": "Представительский Люкс с видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 51,
+    "type": "Представительский Люкс с видовой ванной и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 52,
+    "type": "Представительский Люкс с видовой ванной и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 53,
+    "type": "Представительский Люкс с видовой ванной и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 54,
+    "type": "Представительский Люкс с видовой ванной и видом на реку",
+    "availability": true,
+    "bookedBy": null
+  },
+  {
+    "roomNumber": 55,
+    "type": "Представительский Люкс с видовой ванной и видом на реку",
+    "availability": true,
+    "bookedBy": null
   }
 ]

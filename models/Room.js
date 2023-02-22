@@ -16,6 +16,9 @@ const schema = new Schema({
     required: true,
     default: true,
   },
+  bookedBy: {
+    type: String || null,
+  },
 });
 
 module.exports = model("Room", schema);

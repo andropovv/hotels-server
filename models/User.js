@@ -19,7 +19,14 @@ const schema = new Schema(
       type: String,
       enum: ["male", "female"],
     },
+    bookedRooms: [
+      {
+        type: String,
+      },
+    ],
+    admin: Boolean,
   },
+
   { timestamps: true }
 );
 

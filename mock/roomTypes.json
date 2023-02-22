@@ -6,6 +6,9 @@
       "Обращаем Ваше внимание, что на фото изображен типовой номер категории \"Стандарт\". Конфигурация номера может несколько отличаться от представленного на фото."
     ],
     "price": 150,
+    "places": 1,
+    "rooms": 1,
+    "square": 13,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbee11f6b2b9cedd187c0fde/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbfde1e7e035e84f6b2e69d9/XXXL",
@@ -21,7 +24,11 @@
       "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе. ",
       "Обращаем Ваше внимание, что на фото изображен типовой номер. Конфигурация номера может несколько отличаться от представленного на фото."
     ],
+
     "price": 280,
+    "places": 2,
+    "rooms": 1,
+    "square": 17,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbea280e708843f808759001/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3613454/2a0000017338fbfe2b9ee5fb232df8e62351/XXXL",
@@ -38,6 +45,9 @@
       "Обращаем Ваше внимание, что на фото изображен типовой номер. Конфигурация номера может несколько отличаться от представленного на фото."
     ],
     "price": 300,
+    "places": 2,
+    "rooms": 1,
+    "square": 17,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbfe15149fb0a0a9b68af507/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfddfeb4e8ed1081284d122/XXXL",
@@ -49,9 +59,12 @@
   {
     "name": "Представительский Люкс с видом на реку",
     "description": [
-      "Двухкомнатный или однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву."
+      "Двухкомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и ванной и панорамным видом на Неву."
     ],
     "price": 350,
+    "places": 2,
+    "rooms": 2,
+    "square": 44,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf219a8295a60d692ce7ba3/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf215fcb6849019e001eff1/XXXL",
@@ -66,6 +79,9 @@
       "Однокомнатный номер с 1 двуспальной кроватью, собственной ванной комнатой с душевой кабиной и видовой ванной и панорамным видом на Неву."
     ],
     "price": 380,
+    "places": 2,
+    "rooms": 1,
+    "square": 44,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfa4d26433dc1bc46141fa6/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbf9f0e440acbe80dbd58a74/XXXL",
@@ -81,6 +97,9 @@
       "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе."
     ],
     "price": 330,
+    "places": 2,
+    "rooms": 1,
+    "square": 33,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbee1b274275aed169441797/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe636c0aafcb17a4946ffd6/XXXL",
@@ -96,6 +115,9 @@
       "Обратите внимание, что при выборе номера с двуспальной кроватью 2 односпальные кровати будут составлены вместе."
     ],
     "price": 300,
+    "places": 2,
+    "rooms": 1,
+    "square": 33,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3586827/2a0000017338fbe2424c7cbb3a68b149d60c/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbea2528d2a01d6fee4e5f5b/XXXL",
@@ -110,6 +132,9 @@
       "Трехкомнатный номер с 1 двуспальной кроватью, с 2 собственными ванными комнатами с душевой кабиной, кабинетом, массажным креслом, с видовой ванной и панорамным видом на Неву."
     ],
     "price": 500,
+    "places": 2,
+    "rooms": 3,
+    "square": 83,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfdcf22994fe37de4daf7d3/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbea29389ebad5cb1ca575a0/XXXL",
@@ -124,6 +149,9 @@
       "Двухкомнатный номер с 1 двуспальной кроватью, с 2 собственными ванными комнатами с душевой кабиной, с видовой ванной и панорамным видом на Неву."
     ],
     "price": 450,
+    "places": 2,
+    "rooms": 2,
+    "square": 70,
     "photos": [
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfddfbf90308e1f35fd9e4b/XXXL",
       "https://avatars.mds.yandex.net/get-travel-rooms/3595101/2a0000017338fbfe39c44e23dfef93a10d27/XXXL",
