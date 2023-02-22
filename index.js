@@ -6,7 +6,7 @@ const cors = require("cors");
 const initDatabase = require("./startUp/initDatabase.js");
 const routes = require("./routes");
 
-const PORT = config.get("port") || 8000;
+const PORT = process.env.PORT || 8000;
 
 const app = express();
 
@@ -21,7 +21,7 @@ async function start() {
     mongoose.connection.once("open", () => {
       initDatabase();
     });
-    await mongoose.connect(config.get("mongoUri"));
+    await mongoose.connect(process.env.MONGODB_URL);
     console.log(chalk.blueBright("MongoDB has been connected"));
     app.listen(PORT, () => {
       console.log(chalk.blueBright(`Server has been started on port ${PORT}`));
@@ -33,3 +33,5 @@ async function start() {
 }
 
 start();
+
+module.exports = app;

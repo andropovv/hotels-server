@@ -143,14 +143,24 @@ router.get("/getMe", auth, async (req, res) => {
 router.patch("/update", auth, async (req, res) => {
   try {
     const data = req.body;
-    console.log(data);
 
     const user = await User.findById(req.user._id);
-    console.log(user);
     const updatedUser = await user.updateOne({ ...data }, { new: true });
     const { email, _id, name, sex, admin } = updatedUser;
 
     res.send({ email, _id, name, sex, admin });
+  } catch (error) {
+    res
+      .status(500)
+      .json({ message: "На сервере произошла ошибка. Попробуйте позже" });
+  }
+});
+
+router.delete("/", auth, async (req, res) => {
+  try {
+    await User.findByIdAndDelete(req.user._id);
+
+    res.send("success");
   } catch (error) {
     res
       .status(500)

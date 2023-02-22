@@ -43,7 +43,6 @@ router.patch("/book", auth, async (req, res) => {
     );
 
     const currentUser = await User.findById(req.user._id);
-    console.log(bookedRoom);
 
     await currentUser.updateOne(
       { bookedRooms: [...currentUser.bookedRooms, bookedRoom._id] },
