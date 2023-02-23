@@ -4,11 +4,11 @@ const Token = require("../models/Token.js");
 
 class TokenSevice {
   generate(payload) {
-    const accessToken = jwt.sign(payload, config.get("accessSecret"), {
+    const accessToken = jwt.sign(payload, process.env.ACCESS_SECRET, {
       expiresIn: "1h",
     });
 
-    const refreshToken = jwt.sign(payload, config.get("refreshSecret"));
+    const refreshToken = jwt.sign(payload, process.env.REFRESH_SECRET);
 
     return {
       accessToken,
@@ -32,7 +32,7 @@ class TokenSevice {
 
   validateRefresh(refreshToken) {
     try {
-      return jwt.verify(refreshToken, config.get("refreshSecret"));
+      return jwt.verify(refreshToken, process.env.REFRESH_SECRET);
     } catch (error) {
       return null;
     }
@@ -40,7 +40,7 @@ class TokenSevice {
 
   validateAccess(accessToken) {
     try {
-      return jwt.verify(accessToken, config.get("accessSecret"));
+      return jwt.verify(accessToken, process.env.ACCESS_SECRET);
     } catch (error) {
       return null;
     }
